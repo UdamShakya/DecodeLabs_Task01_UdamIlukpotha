@@ -340,4 +340,4 @@ The full pipeline is in:
 >
 > — DecodeLabs Industrial Training Kit, Batch 2026
 
-**
+
